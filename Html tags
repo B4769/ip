@@ -1,0 +1,34 @@
+<ul>	Defines an unordered list
+<ol>	Defines an ordered list
+<li>	Defines a list item
+<dir>	Not supported in HTML5. Use <ul> instead.
+Defines a directory list
+<dl>	Defines a description list
+<dt>	Defines a term/name in a description list
+<dd>	Defines a description of a term/name in a description list
+<menu>	Defines a list/menu of commands
+<table>	Defines a table
+<caption>	Defines a table caption
+<th>	Defines a header cell in a table
+<tr>	Defines a row in a table
+<td>	Defines a cell in a table
+<thead>	Groups the header content in a table
+<tbody>	Groups the body content in a table
+<tfoot>	Groups the footer content in a table
+<col>	Specifies column properties for each column within a <colgroup> element
+<colgroup>	Specifies a group of one or more columns in a table for formatting
+<style>	Defines style information for a document
+<div>	Defines a section in a document
+<span>	Defines a section in a document
+<header>	Defines a header for a document or section
+<footer>	Defines a footer for a document or section
+<main>	Specifies the main content of a document
+<section>	Defines a section in a document
+<article>	Defines an article
+<aside>	Defines content aside from the page content
+<details>	Defines additional details that the user can view or hide
+<dialog>	Defines a dialog box or window
+<summary>	Defines a visible heading for a <details> element
+<a>	Defines a hyperlink
+<link>	Defines the relationship between a document and an external resource (most used to link to style sheets)
+<nav>	Defines navigation links
