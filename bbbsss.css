@@ -1,0 +1,66 @@
+attr()Returns the value of an attribute of the selected element
+calc()Allows you to perform calculations to determine CSS property values
+conic-gradient()Creates a conic gradient
+counter()Returns the current value of the named counter
+cubic-bezier()Defines a Cubic Bezier curve
+hsl()Defines colors using the Hue-Saturation-Lightness model (HSL)
+hsla()Defines colors using the Hue-Saturation-Lightness-Alpha model (HSLA)
+linear-gradient()Creates a linear gradient
+max()Uses the largest value, from a comma-separated list of values, as the property value
+min()Uses the smallest value, from a comma-separated list of values, as the property value
+radial-gradient()Creates a radial gradient
+repeating-conic-gradient()Repeats a conic gradient
+repeating-linear-gradient()Repeats a linear gradient
+repeating-radial-gradient()Repeats a radial gradient
+rgb()Defines colors using the Red-Green-Blue model (RGB)
+rgba()Defines colors using the Red-Green-Blue-Alpha model (RGBA)
+var()Inserts the value of a custom property
+Serif Fonts
+
+"Times New Roman", Times, serif  This is a Heading This is a paragraph.
+Georgia, serif This is a Heading This is a paragraph.
+
+Garamond, serif This is a Heading This is a paragraph.
+a:link color: (internal value);text-decoration: underline;cursor: auto;
+a:visited color: (internal value);text-decoration: underline;cursor: auto;
+a:link:active color: (internal value);
+a:visited:active color: (internal value);
+abbr None.
+address display: block;font-style: italic;
+area display: none;
+article display: block;
+aside display: block;
+audio None.
+b font-weight: bold;
+base None.
+bdi None.
+bdo unicode-bidi: bidi-override;
+blockquote display: block;margin-top: 1em;margin-bottom: 1em;margin-left: 40px;margin-right: 40px;
+body display: block;margin: 8px;
+body:focus outline: none;
+br None.
+button None
+canvas None.
+caption display: table-caption;text-align: center;
+cite font-style: italic;
+code font-family: monospace;
+col display: table-column;
+colgroup display: table-column-group;
+datalist display: none;
+dd display: block;margin-left: 40px;
+del text-decoration: line-through;
+details display: block;
+dfn font-style: italic;
+dialog None.
+div display: block;
+dl display: block;margin-top: 1em;margin-bottom: 1em;margin-left: 0;margin-right: 0;
+dt display: block;
+em font-style: italic;
+embed:focus outline: none;
+fieldset display: block;margin-left: 2px;margin-right: 2px;padding-top: 0.35em;padding-bottom: 0.625em;padding-left: 0.75em;padding-right: 0.75em;border: 2px groove (internal value);
+figcaption display: block;
+figure display: block;margin-top: 1em;margin-bottom: 1em;margin-left: 40px;margin-right: 40px;
+footer display: block;
+form display: block;
+margin-top: 0em;
+h1 display: block;font-size: 2em;margin-top: 0.67em;margin-bottom: 0.67em;margin-left: 0;margin-right: 0;
